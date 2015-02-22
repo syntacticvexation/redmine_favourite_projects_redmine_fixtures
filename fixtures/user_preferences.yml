@@ -3,13 +3,8 @@ user_preferences_001:
   others: |
     --- 
     :my_page_layout: 
-      left: 
-      - latestnews
-      - documents
-      right: 
-      - issuesassignedtome
       top: 
-      - calendar
+      - favourite_projects_box
 
   id: 1
   user_id: 1
