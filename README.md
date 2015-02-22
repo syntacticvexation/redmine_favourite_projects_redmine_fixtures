@@ -1,0 +1,1 @@
+# redmine_favourite_projects_redmine_fixtures
