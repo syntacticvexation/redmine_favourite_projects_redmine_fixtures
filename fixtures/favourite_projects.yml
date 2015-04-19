@@ -17,3 +17,23 @@ fav_proj_004:
   id: 4
   user_id: 1
   project_id: 2
+
+fav_proj_005:
+  id: 5
+  user_id: 4
+  project_id: 5
+
+fav_proj_006:
+  id: 6
+  user_id: 4
+  project_id: 3
+
+fav_proj_007:
+  id: 7
+  user_id: 4
+  project_id: 1
+
+fav_proj_008:
+  id: 8
+  user_id: 4
+  project_id: 2

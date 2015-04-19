@@ -24,3 +24,13 @@ user_preferences_002:
   id: 2
   user_id: 3
   hide_mail: false
+user_preferences_003: 
+  others: |
+    --- 
+    :my_page_layout: 
+      top: 
+      - favourite_projects_box
+  
+  id: 3
+  user_id: 4
+  hide_mail: false
